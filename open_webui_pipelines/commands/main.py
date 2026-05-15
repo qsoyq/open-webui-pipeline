@@ -1,6 +1,6 @@
 import typer
 
-from cli_template.commands import default_invoke_without_command
+from open_webui_pipelines.commands import default_invoke_without_command
 
 helptext = """
 

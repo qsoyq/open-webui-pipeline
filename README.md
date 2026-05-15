@@ -1,9 +1,9 @@
-# python-cli-template
+# open-webui-pipelines
 
-Command line application template for python.
+Open WebUI pipelines: bridge MCPO tools into Open WebUI with optional LLM translation.
 
 ## Install
 
 ```bash
-pip install git+https://github.com/qsoyq/python-cli-template.git
+pip install git+https://github.com/qsoyq/open-webui-pipelines.git
 ```
